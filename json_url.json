@@ -2,17 +2,16 @@
 		"name": "Brown Deer Under Tree",
 		"author": "Philipp Pilz",
 		"url": "https://unsplash.com/photos/iQRKBNKyRpo/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjk2OTI1OTY3fA&force=true",
-		"thumbnail": "https://unsplash.com/photos/iQRKBNKyRpo/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjk2OTI1OTY3fA&force=true",
+		"thumbnail": "https://unsplash.com/photos/iQRKBNKyRpo/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjk2OTI1OTY3fA&force=true&w=640",
 		"copyright": "Free to use under the Unsplash License",
 		"collections": "Animals"
 	},
 {
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+		"name": "Green Palm Tree During Night Time",
+		"author": "Max Kuntscher",
+		"url": "https://unsplash.com/photos/Cpb2HY41bs8/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8OXx8ZGFyayUyMHdhbGxwYXBlcnxlbnwwfHx8fDE2OTY5MTI3ODd8MA&force=true",
+		"thumbnail": "https://unsplash.com/photos/Cpb2HY41bs8/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8OXx8ZGFyayUyMHdhbGxwYXBlcnxlbnwwfHx8fDE2OTY5MTI3ODd8MA&force=true&w=640",
+		"copyright": "Free to use under the Unsplash License",
+		"collections": "Nature"
 	}
 ]
